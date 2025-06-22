@@ -1,0 +1,1 @@
+# TIET-SS-MiniProject-26-ResizeVideoto50Percent
